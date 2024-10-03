@@ -1,6 +1,6 @@
 ## Hi there :wave:
 # :dizzy: About Me:
-:telescope: I’m complete B.Tach (Bachelor of technologies ) from GMIT <br>:seedling: I’m currently learning Web front and development<br>:dancers: I’m looking to collaborate on for new project in front and development<br>:handshake: I’m looking for help with I’m looking for help with for front and development in finder a job<br>:male-technologist: All of my projects are available at "https://github.com/Nevilkheni"<br>:mailbox: How to reach me "www.linkedin.com/in/bhargav-italiya-860a6625a"<br>:zap: Fun fact - I am Devloper :sweat_smile:
+:telescope: I’m complete B.Tach (Bachelor of technologies ) from GMIT <br>:seedling: I’m currently learning Web front and development<br>:dancers: I’m looking to collaborate on for new project in front and development<br>:handshake: I’m looking for help with I’m looking for help with for front and development in finder a job<br>:male-technologist: All of my projects are available at "https://github.com/Nevilkheni"<br>:mailbox: How to reach me "https://www.linkedin.com/in/nevil-kheni-a724222b3/"<br>:zap: Fun fact - I am Devloper :sweat_smile:
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 ## :globe_with_meridians: Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nevil_135/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nevil-kheni-a724222b3/)
